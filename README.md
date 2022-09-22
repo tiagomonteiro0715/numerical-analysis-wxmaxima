@@ -1,7 +1,6 @@
 # numerical-analysis-wxmaxima
 
-Place here image related to the projects
-
+![Image](https://images.pexels.com/photos/3781338/pexels-photo-3781338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 Place here Badges related to the projects
 
