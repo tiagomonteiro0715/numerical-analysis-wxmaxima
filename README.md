@@ -24,7 +24,9 @@ https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
 ## Project Description
 
-This project holds the code in the maxima language developed in my numerical anaylsis class
+This project holds the code in the maxima language, in the [wxMaxima editor](https://wxmaxima-developers.github.io/wxmaxima/download.html) developed in my [numerical anaylsis](https://simple.wikipedia.org/wiki/Numerical_analysis) class
+
+[Syllabus](https://guia.unl.pt/en/2022/fct/program/1058/course/12595#subject)
 
 
 -----
