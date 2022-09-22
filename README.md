@@ -28,8 +28,6 @@ This project holds the code in the maxima language, in the [wxMaxima editor](htt
 # Table of Contents
 ### [ How to Install and Run the Project ](#How_to_install)
 
-### [ How to Use the Project ](#How_to_use)
-
 ### [ Code and usage examples ](#examples)
 
 ### [ Authors and main contributions ](#credits)
@@ -41,16 +39,12 @@ This project holds the code in the maxima language, in the [wxMaxima editor](htt
 
 #### How to Install and Run the Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
+1. Install the GUI [here](https://wxmaxima-developers.github.io/wxmaxima/download.html)
 
-</a>
+2. Run the .exe file
 
-<a name="How_to_use">
+3. Open wxMaxima and open the downloaded files from this repository
 
-
-#### How to Use the Project
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
 
 </a>
 
