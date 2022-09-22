@@ -39,11 +39,11 @@ This project holds the code in the maxima language, in the [wxMaxima editor](htt
 
 #### How to Install and Run the Project
 
-1. Install the GUI [here](https://wxmaxima-developers.github.io/wxmaxima/download.html)
+Install the GUI [here](https://wxmaxima-developers.github.io/wxmaxima/download.html)
 
-2. Run the .exe file
+Run the .exe file
 
-3. Open wxMaxima and open the downloaded files from this repository
+Open wxMaxima and open the downloaded files from this repository
 
 
 </a>
