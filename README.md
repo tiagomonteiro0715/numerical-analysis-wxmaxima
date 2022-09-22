@@ -2,12 +2,6 @@
 
 ![Image](https://images.pexels.com/photos/3781338/pexels-photo-3781338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-Place here Badges related to the projects
-
-
-Add licence to github repository
-
-
 [comment]: <> (This template serves to be used as a guide to write good documentation for github repositories)
 
 [comment]: <> (Exemplo de READMEhttps://github.com/kefranabg/readme-md-generator)
